@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/crudoperationproject/static/css/main.1aaf7db6.css",
+    "main.css": "/crudoperationproject/static/css/main.9a9fb728.css",
     "main.js": "/crudoperationproject/static/js/main.b5def00e.js",
     "index.html": "/crudoperationproject/index.html",
-    "main.1aaf7db6.css.map": "/crudoperationproject/static/css/main.1aaf7db6.css.map",
+    "main.9a9fb728.css.map": "/crudoperationproject/static/css/main.9a9fb728.css.map",
     "main.b5def00e.js.map": "/crudoperationproject/static/js/main.b5def00e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aaf7db6.css",
+    "static/css/main.9a9fb728.css",
     "static/js/main.b5def00e.js"
   ]
 }

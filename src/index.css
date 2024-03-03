@@ -93,4 +93,20 @@ body {
     padding: 10px;
     outline: none;
   }
+  @media(max-width:700px){
+
+    .d{
+        display: flex;
+        flex-direction: column;
+        padding: 15px;
+        align-items: center;
+        justify-content: center;
+        gap: -10px;
+        font-weight: bolder;
+        font-size: 18px;
+    }
+    .d .ip1,.d .ip2,.d .ip3{
+        width: 200px;
+    }
+  }
   

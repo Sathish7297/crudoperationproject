@@ -94,7 +94,7 @@ body {
     padding: 10px;
     outline: none;
   }
-  @media(max-width:700px){
+  /* @media(max-width:700px){
 
     .d{
         display: flex;
@@ -110,4 +110,4 @@ body {
         width: 200px;
     }
   }
-  
+   */

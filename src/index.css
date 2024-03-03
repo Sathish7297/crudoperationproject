@@ -87,6 +87,7 @@ body {
     gap: -10px;
     font-weight: bolder;
     font-size: 18px;
+    overflow-x: hidden;
   }
   .d .ip1,.d .ip2,.d .ip3{
     width: 400px;
